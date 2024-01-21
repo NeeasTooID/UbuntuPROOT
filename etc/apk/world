@@ -5,4 +5,5 @@ busybox
 htop
 libc-utils
 neofetch
+npm
 sudo
