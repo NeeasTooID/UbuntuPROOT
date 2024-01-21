@@ -1469,6 +1469,27 @@ R:libcupsimage.so.2
 a:0:0:755
 Z:Q1bXlxcLlzXH5DDtSnzpog1vHwHcU=
 
+C:Q1oSBerwcr+l8IBT+vBOsovgBwQRo=
+P:curl
+V:8.5.0-r0
+A:x86_64
+S:149054
+I:253952
+T:URL retrival utility and library
+U:https://curl.se/
+L:curl
+o:curl
+m:Natanael Copa <ncopa@alpinelinux.org>
+t:1701922323
+c:badf2583b77f06cf2b9fa4406a593dd663023de3
+D:libcurl=8.5.0-r0 so:libc.musl-x86_64.so.1 so:libcurl.so.4 so:libz.so.1
+p:cmd:curl=8.5.0-r0
+F:usr
+F:usr/bin
+R:curl
+a:0:0:755
+Z:Q1VMaMEZJsNrvKXT2q+aHWgKP9AbM=
+
 C:Q1v5xT8nRMF8Q/5rFp04tiNnQvpkY=
 P:dbus
 V:1.14.8-r0
