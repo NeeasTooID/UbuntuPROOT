@@ -1,2 +1,11 @@
 Q1gQ/L3UBnSjgkFWEHQaUkUDubqdI= /bin /usr/bin /sbin /usr/sbin /lib/modules/*
 Q1FG8M+7w+dkjV9Vy0mGFWW2t4+Do= /usr/share/ca-certificates /usr/local/share/ca-certificates /etc/ssl/certs /etc/ca-certificates/update.d
+Q1toELDX+AMfn9O2FftAacrhU+TC0= /usr/share/fonts/*
+Q1W90NF4Hjr+Q6XAybsO29jsYcxMc= /usr/share/glib-2.0/schemas /usr/lib/gio/modules /usr/lib/gtk-4.0
+Q19CtvHnwBkBAebcMqHhi8/FkXiMg= /usr/share/mime
+Q13SB29YuBP2WEKzrUR82qFMyCCYk= /usr/lib/gdk-pixbuf-2.0/*/loaders
+Q1IbTXSKSZrqg5Mslb+SmDoA0DF6E= /usr/share/icons/*
+Q13iS842R0+BcWuUciuv/T8ReFjN0= /usr/lib/pango/*/modules
+Q1TSz1oayjo+b25j4L8BL2ilbJ/Fk= /usr/share/fonts/*
+Q14FQuTXK0o6WwkHLyXPcmxabJ2ck= /usr/share/applications
+Q1v5xT8nRMF8Q/5rFp04tiNnQvpkY= /usr/share/dbus-1/system.d
