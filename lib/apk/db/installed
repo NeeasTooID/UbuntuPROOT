@@ -574,6 +574,41 @@ R:certs
 a:0:0:777
 Z:Q1qE3WqZ1tRpwrmptYdQcZwzvJgds=
 
+C:Q1FmmBqT6CVl6aMUpmEPhjIoEFJ0g=
+P:htop
+V:3.2.2-r1
+A:x86_64
+S:118925
+I:311296
+T:Interactive process viewer
+U:https://htop.dev/
+L:GPL-2.0-or-later
+o:htop
+m:Carlo Landmeter <clandmeter@alpinelinux.org>
+t:1681228881
+c:84a227baf001b6e0208e3352b294e4d7a40e93de
+D:so:libc.musl-x86_64.so.1 so:libncursesw.so.6
+p:cmd:htop=3.2.2-r1
+F:usr
+F:usr/bin
+R:htop
+a:0:0:755
+Z:Q17UUF3Kux2pyk6nqDgnp9EnMqniE=
+F:usr/share
+F:usr/share/applications
+R:htop.desktop
+Z:Q1YQLIheXGLKzaWXVgn/pbI8L78tg=
+F:usr/share/icons
+F:usr/share/icons/hicolor
+F:usr/share/icons/hicolor/128x128
+F:usr/share/icons/hicolor/128x128/apps
+R:htop.png
+Z:Q1kUjLIBLoGavPEQKskfpkS27wwtQ=
+F:usr/share/icons/hicolor/scalable
+F:usr/share/icons/hicolor/scalable/apps
+R:htop.svg
+Z:Q1Q58JkZPmQ/EPknM/vac19uyxe68=
+
 C:Q1Llna/ri8oHhlQIRsaG8SGug0ikI=
 P:libc-utils
 V:0.7.2-r5

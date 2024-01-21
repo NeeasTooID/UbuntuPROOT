@@ -2,6 +2,7 @@ alpine-baselayout
 alpine-keys
 apk-tools
 busybox
+htop
 libc-utils
 neofetch
 sudo
